@@ -1,4 +1,4 @@
-# pdfserver
+# PDF Server with Puppeteer
 
 To install dependencies:
 
@@ -11,5 +11,9 @@ To run:
 ```bash
 bun run index.ts
 ```
+
+Access in browser:
+
+<http://localhost:3000>
 
 This project was created using `bun init` in bun v1.1.10. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
